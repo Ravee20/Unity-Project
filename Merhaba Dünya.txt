@@ -1,1 +1,1 @@
-print("Hello World")
+debug.log("Hello World");
